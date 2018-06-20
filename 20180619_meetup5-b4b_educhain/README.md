@@ -18,4 +18,4 @@
 **Links:**
 
 * [edX Hyperledger Course](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
-* [IBM Code: Blockchain Tutorials](https://developer.ibm.com/code/)
+* Sign-up for [IBM Code](https://infl.tv/dOyc) and explore Tutorials, Code Challenges around Blockchain
