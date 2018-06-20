@@ -1,6 +1,6 @@
 # Hyperledger Vienna Meetup #5
 
-**Date:** Tuesday, June 20th, 2018
+**Date:** Tuesday, June 19th, 2018
 
 **Location:** IBM Client Innovation Center Vienna, DC Tower // [Website](http://austria.ciceurope.com/)
 
