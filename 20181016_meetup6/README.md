@@ -6,16 +6,16 @@
 
 **Speakers:**
 
-* [Alexander Mayrhofer]
-* [Dimitrij Klesev]
-* [Klaus Johannes Rusch]
-* [Markus Sabadello]
+* [Alexander Mayrhofer](https://icannwiki.org/Alexander_Mayrhofer)
+* [Dimitrij Klesev](https://audk.at/)
+* [Klaus Johannes Rusch](https://klausrusch.atmedia.net/)
+* [Markus Sabadello](https://twitter.com/peacekeeper)
 
 **Slides:**
 
 * [Welcome!](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/01-Welcome.pdf)
 * [Hyperledger Update](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/02-Hyperledger-Update.pdf)
-* [Zero-Knowledge Proofs](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/03 Zero Knowledge-Proofs.pdf)
+* [Zero-Knowledge Proofs](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/03-Zero-Knowledge-Proofs.pdf)
 * [Identity for all](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/04-Identity-for-All.pdf)
 * [Blockchain and Namespaces](https://github.com/HyperledgerVienna/meetups/raw/master/20181016_meetup6/05-Blockchain-and-Namespaces.pdf)
 
