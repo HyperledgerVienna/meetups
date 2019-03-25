@@ -13,7 +13,7 @@
 
 **Slides:**
 
-* [Welcome!](https://github.com/HyperledgerVienna/meetups/meetup7/00-Hyperledger-Meetup-7-Welcome.pdf)
-* [Hyperledger Fabric: Moving from MVP to Production](https://github.com/HyperledgerVienna/meetups/meetup7/01-Hyperledger-Fabric-Moving-from-MVP-to-Production.pdf)
-* [Exploring Hyperledger: Our Shot at Simplifying Fabric](https://github.com/HyperledgerVienna/meetups/meetup7/02-Exploring-Hyperledger.pdf)
+* [Welcome!](https://github.com/HyperledgerVienna/meetups/blob/master/20181128_meetup7/00-Hyperledger-Meetup-7-Welcome.pdf)
+* [Hyperledger Fabric: Moving from MVP to Production](https://github.com/HyperledgerVienna/meetups/blob/master/20181128_meetup7/01-Hyperledger-Fabric-Moving-from-MVP-to-Production.pdf)
+* [Exploring Hyperledger: Our Shot at Simplifying Fabric](https://github.com/HyperledgerVienna/meetups/blob/master/20181128_meetup7/02-Exploring-Hyperledger.pdf)
 
